@@ -12,6 +12,7 @@ class App extends React.Component {
         </header>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
+          <button className='btn btn-danger'>Bootstrap?</button>
         </p>
       </div>
     );
